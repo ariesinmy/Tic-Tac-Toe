@@ -1,5 +1,4 @@
-# NPhw2 Tic-Tac-Toe
-Network Programming Homework 2
+#Tic-Tac-Toe（C）
 
 Multiple clients can play Tic-Tac-Toe game with other player online in a same server
 設計 client & server 的 OX棋 下棋程式，具有下列幾個特性：
